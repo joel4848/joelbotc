@@ -1,0 +1,13 @@
+name = "BindCommands"
+filename = "fabric-bind-cmd-1.7.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WeytAdLH/versions/BZVgGQoj/fabric-bind-cmd-1.7.3-1.21.1.jar"
+hash-format = "sha512"
+hash = "27ab604d2a8faeb4baceccdba07a546b5ec91ec39ade1a7f14c3d9752817231c824e91272891b6ae7468d715053e359190ca85c62e58e1bcfbabea7800e9d718"
+
+[update]
+[update.modrinth]
+mod-id = "WeytAdLH"
+version = "BZVgGQoj"

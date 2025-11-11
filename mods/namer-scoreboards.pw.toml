@@ -1,0 +1,13 @@
+name = "Namer Scoreboards"
+filename = "namerscoreboards-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BsKpMjEd/versions/uYXuO7zA/namerscoreboards-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "cc8daa3c7ba5d47e8735b35701176b8855780a01dfc28ec202dda511de23d0e98196793119b501e9e914760a73efcbc9568beac13462202254a9b1372040784d"
+
+[update]
+[update.modrinth]
+mod-id = "BsKpMjEd"
+version = "uYXuO7zA"

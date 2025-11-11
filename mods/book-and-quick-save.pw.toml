@@ -1,0 +1,13 @@
+name = "Book and Quick Save"
+filename = "book_and_quick_save-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/91nYUvz1/versions/hRG5KBFL/book_and_quick_save-1.1.jar"
+hash-format = "sha512"
+hash = "88ef1164153c592a60a375b227f8c9d67d28447de52bbee12b3646b70797ee9f90272e7d7fa0153932b7b27b3f302aae56536142441fb70698275a4433292e82"
+
+[update]
+[update.modrinth]
+mod-id = "91nYUvz1"
+version = "hRG5KBFL"

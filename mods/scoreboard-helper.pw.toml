@@ -1,0 +1,13 @@
+name = "Scoreboard Helper"
+filename = "ScoreboardHelper-1.2.0-mc1.20.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CcboMJ3A/versions/Ony0qa0S/ScoreboardHelper-1.2.0-mc1.20.6.jar"
+hash-format = "sha512"
+hash = "c04f21c7f030cd61ba7646d89dd7738525b7ddbc4f624a7d68ffab2ea6d8d970716b92cc942201d75a0afe59558066990b79afbe43a41fdbe0a9b0f0796335cd"
+
+[update]
+[update.modrinth]
+mod-id = "CcboMJ3A"
+version = "Ony0qa0S"

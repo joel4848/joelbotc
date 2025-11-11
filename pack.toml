@@ -1,0 +1,13 @@
+name = "Joelbotc"
+author = "joel48"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a80fd796c08c310b103754c6fe530727a2225811eecc82e3ceeaf27b119b8103"
+
+[versions]
+fabric = "0.17.0"
+minecraft = "1.21.1"

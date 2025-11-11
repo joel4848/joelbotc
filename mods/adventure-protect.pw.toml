@@ -1,0 +1,13 @@
+name = "Adventure Protect"
+filename = "adventureprotect-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PwW9m3DV/versions/Dbrrs4oN/adventureprotect-2.4.1.jar"
+hash-format = "sha512"
+hash = "5a16c370e749ba440ea1470fccfb104894900e8e4438fadb1557791341db84a98d6aa104b86b3b3d0ada8eb7a574abd8624b88a147ae8c43aae01a5f6d5b0b2f"
+
+[update]
+[update.modrinth]
+mod-id = "PwW9m3DV"
+version = "Dbrrs4oN"
