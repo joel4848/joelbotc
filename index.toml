@@ -581,14 +581,6 @@ file = "flake.nix"
 hash = "dde7a6053d301323754c71b8948e95e6c8bfe1a31f70c4140021452175ab4aff"
 
 [[files]]
-file = "import.sh"
-hash = "17767b39610f47a99697e338701a171a4b1993e0fc847ff9cf234704dfa9e15d"
-
-[[files]]
-file = "modlist.html"
-hash = "f5b691c0b796b48ab6a2a8de369880aadcfdef4c52bd5c34d37507abb7c94d6b"
-
-[[files]]
 file = "mods/accessible-step.pw.toml"
 hash = "297e887556ead53d8ddfa837903655478c5c1988a69d156e313f81e5db858f3e"
 metafile = true
