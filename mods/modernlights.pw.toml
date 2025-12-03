@@ -1,0 +1,13 @@
+name = "Modern Lights"
+filename = "modernlights-3.0.0+1.21-beta1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xcx3AYqF/versions/PUMKOXbb/modernlights-3.0.0%2B1.21-beta1.jar"
+hash-format = "sha512"
+hash = "2f67693e6c6d6a426a755911f04b98b6e20f08ee71f3173bd23a2c36f4fcaa4d476cffde3343a359d5ac23a2b5f8381b972e1642772f8f49ffcbd1caea40a89a"
+
+[update]
+[update.modrinth]
+mod-id = "Xcx3AYqF"
+version = "PUMKOXbb"

@@ -1,0 +1,13 @@
+name = "Flower Patch"
+filename = "FlowerPatch-fabric-1.21.1-7.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hbo1O1M/versions/ODB8R64F/FlowerPatch-fabric-1.21.1-7.1.0.jar"
+hash-format = "sha512"
+hash = "56231d95b981d62266eedf4ce1751bb6cc4be7e44377f83f129fe6d204dcaa3084baea59dbf782c0e0b97db379869a8723d712b254b0b6305eaad2e877035adc"
+
+[update]
+[update.modrinth]
+mod-id = "8hbo1O1M"
+version = "ODB8R64F"

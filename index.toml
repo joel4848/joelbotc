@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
@@ -1104,6 +1104,11 @@ hash = "3c5963545cf51f646b4ce29c575dcb08dc23c1bcb964b5171817f6e6fe1cc074"
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
+file = "mods/flower-patch.pw.toml"
+hash = "ffa943791d347fc3a8b327911490088f76ea4842ed2ec31b5b63e10fcc9b3fc8"
 metafile = true
 
 [[files]]
@@ -1269,6 +1274,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
+metafile = true
+
+[[files]]
+file = "mods/modernlights.pw.toml"
+hash = "67c635d5467e8c556f0ce565c84735bacc028cc5af2b5e781bf910121375d8de"
 metafile = true
 
 [[files]]
