@@ -13,8 +13,32 @@ file = "config/accessible-step.json"
 hash = "9129479e06d716c14c0aa9c0db5b039013c6d272a60368ff85b0fad35709f99b"
 
 [[files]]
+file = "config/additionalplacements-client.toml"
+hash = "2c92874ba7e68f4d11680fbb1ab7c06e3505e51f63c587a63c31d87e328cdd07"
+
+[[files]]
+file = "config/additionalplacements-common.toml"
+hash = "e082ea565f5a0eebd35f5bb3f12a29a60af301153962b9cb383150517938a91d"
+
+[[files]]
+file = "config/additionalplacements-server.toml"
+hash = "cad258bdedab137802b79571fc02f6e3f3831dbd00f93ea2f3574f04bcff58ad"
+
+[[files]]
+file = "config/additionalplacements-startup.toml"
+hash = "36a049fd9282705c097600342dd15b9747498c1bd734edb32a5deecc186cd8f1"
+
+[[files]]
 file = "config/adventureprotect.json"
 hash = "2d9421283c1792fb92ae63f2e623dda329438ad41699821848d1736f3bedf82c"
+
+[[files]]
+file = "config/amendments-client.json"
+hash = "2fd9c2aa2de53acdc605dda9b8d0c59ea3f95fea44823abc24d0a8577e845e6e"
+
+[[files]]
+file = "config/amendments-common.json"
+hash = "2c9d0eb3d8b8375d00483b76b7badb8a6f2effc34f760478c1389b1214af1034"
 
 [[files]]
 file = "config/asahi.json"
@@ -22,15 +46,19 @@ hash = "139f2fcb21fac1d9f650417a84c425829d375838639f54ca894d64f88fcca848"
 
 [[files]]
 file = "config/axiom/.axiom.json.backup"
-hash = "fd5ae0b0aed783c26c80b398389eb5b3043aef7ea1d7a347d875bb435f2ec8e9"
+hash = "4c9c6a66567660e5581dba99b5001b24dd69db5574a3b67ed45594d60cb86050"
 
 [[files]]
 file = "config/axiom/axiom.json"
-hash = "fd5ae0b0aed783c26c80b398389eb5b3043aef7ea1d7a347d875bb435f2ec8e9"
+hash = "4c9c6a66567660e5581dba99b5001b24dd69db5574a3b67ed45594d60cb86050"
 
 [[files]]
 file = "config/axiom/imgui.ini"
-hash = "6e0df464fc094392e22cd3c9898eaa9a0a0508a54fdcc9fff8c640d107e94caa"
+hash = "538649715b6c701e5183c8fc02743020fe21870b4b41497c394fbdfa62fe78f7"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439"
 
 [[files]]
 file = "config/balm-client.toml"
@@ -50,7 +78,7 @@ hash = "09f80b812feb687bd99873721c07cb50533f4e560d512d876dfcd7e923aec9e3"
 
 [[files]]
 file = "config/bind_cmd.ini"
-hash = "5fde43cd83a3d57aae0b11a4ecaa7f4afe117f72a1400d681921da249919e7ee"
+hash = "8b34aae2a4febe5586216f6ea8c9c863d0888c2c4a868dd3fb54b14589a24677"
 
 [[files]]
 file = "config/bind_cmd.ini.bak"
@@ -109,20 +137,52 @@ file = "config/configured-client.properties"
 hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"
 
 [[files]]
+file = "config/connected-doors.properties"
+hash = "66f9e29353dfdbaaa04a448bbf31e93ecd9247d2f195acc08b3f8d4f97133330"
+
+[[files]]
+file = "config/connectiblechains.toml"
+hash = "0e90f3e1102154437f7caaafaf84b26b8538ab8e304a9a7f0ce3f13e7979533f"
+
+[[files]]
+file = "config/constructionwand-client.toml"
+hash = "247386658d46da08625749707f2bfe4abcd70ab301987c6a60f5a17f8cf6276b"
+
+[[files]]
+file = "config/constructionwand-server.toml"
+hash = "7f75c68391d38617688492345ca679cb092ffc646f14c90d6f1d671b4c32a86d"
+
+[[files]]
+file = "config/dramaticdoors-startup.toml"
+hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
+
+[[files]]
 file = "config/drippyloadingscreen/options.txt"
 hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/emi.css"
+hash = "d6280d3029dd4788083ba05591d54bf46c9471aa8f4693f848c074674b4c7c04"
+
+[[files]]
 file = "config/emotecraft.json"
-hash = "0ddb13a04499bb1b163b16c660f3ff23de7bfc2c8ea9e8801a23185e9f556ba4"
+hash = "c87ee93f38e850e1a5ff71b10ca585c5721f6bce936b8ff1c861506747bb22f6"
 
 [[files]]
 file = "config/emotecraft_emote_map.json"
 hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "ff92b31b46630cd241da6b0bc9ff8f0dad26085a4e8cfae2f8f064863e82012c"
+
+[[files]]
 file = "config/enhancedgroups/enhancedgroups.properties"
-hash = "f532d0c0fecd0e99ed7ee53c8a1a0ed0f59c8ea272d2d86e599b804ecd49a7f2"
+hash = "c4a3d461552486aae3685bb40eafd47cc7afdb37f211cedc1683d7b53181e160"
 
 [[files]]
 file = "config/enhancedgroups/persistent-groups.json"
@@ -137,8 +197,24 @@ file = "config/evenmoreinstruments-client.toml"
 hash = "472b4e587b86e5e66eae64b64f0f769c651632948d0892a7d3ac3c7316479e84"
 
 [[files]]
+file = "config/everycomp-client.json"
+hash = "8783f27e4b3acf373068c0c8596798a4401d6f7b7c2c9dc32c00143164414fdb"
+
+[[files]]
+file = "config/everycomp-common.json"
+hash = "fcd8aca8d1d894267f2af30e11f7a6418de9a39c1ec3cbd444b686c54e3c9ed1"
+
+[[files]]
+file = "config/everycomp-entries.json"
+hash = "4f2a7023ed6ad2db3b4f7fc493afb5e5a348a935ffed48f20b79745c54010c5b"
+
+[[files]]
+file = "config/everycomp-hazardous.json"
+hash = "e891f9cd4e9fe68803f133a8c00760d5deab15f644b70f7c994cea20131f7cff"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "9c19719e3a36c147172ed214bad47887dcf15250c9e5b6295d274c4787151eb3"
+hash = "295d18f1c8755e365729ea5464df2a324d8e2bfc9d63baeaee026b6de6fa76ab"
 
 [[files]]
 file = "config/fancymenu/assets/barrier.png"
@@ -150,7 +226,7 @@ hash = "a6ced14501fee6ed84523d1bb6b0b517699fd3d32fdec9acfe16b19542dcee2c"
 
 [[files]]
 file = "config/fancymenu/assets/joelbotc_splash.txt"
-hash = "33941f7c1a422192a002a8d6cb559ae3ad8cc50899cc7cc041f58d95f9226672"
+hash = "d795c3e6cf326599d092645042edebd887ecd14c6f646c2d8bd29682dcd75ee0"
 
 [[files]]
 file = "config/fancymenu/assets/joelbotc_title.png"
@@ -178,7 +254,7 @@ hash = "2f77b40a8f87b753e6452b5e760c917a87d7e25359209ff87f5751cf9f499d08"
 
 [[files]]
 file = "config/fancymenu/customization/debug_layout.txt"
-hash = "9bf2bf8dc55546a2fd8fac16e9557e3b8e82156f01b071a2c0ec9e4e7cd27ebf"
+hash = "7164f9d5506020d6582790fec0e6d37532224a9341871e991ffe38ff3dc0db31"
 
 [[files]]
 file = "config/fancymenu/customization/disconnected_screen_layout.txt"
@@ -202,7 +278,7 @@ hash = "d6b76435c21fe370e9ed0a241cada6b27dbfd39407972cbd57db38c2f973e431"
 
 [[files]]
 file = "config/fancymenu/customization/kill_layout.txt"
-hash = "c8b49f6e5ff20a1e325850a5c5fb8139b33063de8e3a363048fed2c5ce01dfc4"
+hash = "5f6b7d28d2af432e6792040bcef03ffdec53403747eaeecc7c3f9f2cd42bd3df"
 
 [[files]]
 file = "config/fancymenu/customization/level_loading_screen_layout.txt"
@@ -210,11 +286,11 @@ hash = "9a424b46a7c885346c54469fd3b60a8504eb29a91f3cc6bfd48b6e5493726df8"
 
 [[files]]
 file = "config/fancymenu/customization/master_layout.txt"
-hash = "e7ede7d5c6f65beb1aef94b4dd352002b71d09d7e91d68dd90b55170921b2136"
+hash = "1295b11f7268086b0a75af09a4c838ef8a57073eceaada51bc92bfbc97d35437"
 
 [[files]]
 file = "config/fancymenu/customization/nominations_layout.txt"
-hash = "5cc58894f4609891502caa523c033d2c2cc5012577a381afe757952742497157"
+hash = "bace22dba36237f1789ff62396f510d06a013522ca902a829d7f42f92d250045"
 
 [[files]]
 file = "config/fancymenu/customization/progress_screen_layout.txt"
@@ -226,7 +302,7 @@ hash = "8399f79776313f969bdc42f75790bbb53c3a53896718be8b1a2f3187640807fa"
 
 [[files]]
 file = "config/fancymenu/customization/setup_layout.txt"
-hash = "7a08eed971f609303ce8b6e7bbfb0c503d4a60ad332f1f7498207305f52aa8fd"
+hash = "eabb967439940c1ecd99d9676e5a9411a455453a4055e64d17a17900dfc9e722"
 
 [[files]]
 file = "config/fancymenu/customization/special_roles.txt"
@@ -238,7 +314,7 @@ hash = "80734e443bd7faec4675382781e1dddb20b3b00ebcb82a3bc478bc9466952382"
 
 [[files]]
 file = "config/fancymenu/customization/teleport_layout.txt"
-hash = "c36fb71fe89946e808b90d8fd172f0ab9f78c01870090d780f26a1a5190a4356"
+hash = "5b881772634aa26b8e714c9e8790215664841e6672a39a10c5255d9e0df2754e"
 
 [[files]]
 file = "config/fancymenu/customization/test_layout.txt"
@@ -246,15 +322,15 @@ hash = "f87f29063765d708ff6dd1932809cc4e514308cd20c295cf0b7d8c1af33e81dc"
 
 [[files]]
 file = "config/fancymenu/customization/timer_layout.txt"
-hash = "bc45fa0a992f80c1f20844d99ce4cf5aee39f5b2e732c8e2028b7ada457b4100"
+hash = "9a8903d8e6daaa7b2a9573b0539b1c81366c88adf9531d99a7b671812b236490"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "566d20e09d0bb4373183e3124bcd2c1dc4506a90a2f80105bea19205415ef359"
+hash = "b50144e82c26d7557557eeaac313827f4deccb959e1f7d307c78f78bfda03328"
 
 [[files]]
 file = "config/fancymenu/customization/travellers_and_fabled_layout.txt"
-hash = "5ed51006a7c70e2a4524d32f53bdefc32c982e5be2d1c2b6b3206f964190d526"
+hash = "6562e8bd2573e999ffc1c59a6748e033395108901693d80b0daa3d1a68f622d1"
 
 [[files]]
 file = "config/fancymenu/dragger_metas.json"
@@ -270,7 +346,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "fab2c9c9e9065baceee5bbd63d4b8fc822d82f2fcd9c9778907412a80aaed1d3"
+hash = "364f75bafd1bd283f7a6e5e01149bdf2bcef64e1ed7b6c7bf92e7aec23fe48e1"
 
 [[files]]
 file = "config/fancymenu/panoramas/joelbotctitle/panorama/panorama_0.png"
@@ -310,11 +386,27 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "fe725dcc7cf9618e80999e7ad8ffe07aba49422e6b21c66ff2bfdfe2eabeb521"
+hash = "3a7ee90a8c84fd36e9a45f0f960a0a3fd4b5b2b22f9c7ea2c6e22f0a838ed161"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "config/flashback/.flashback.json.backup"
+hash = "fdccdfd207569e8c0fb5d9de74a6f7576017d4e685cacd12527c4c07efbbda4d"
+
+[[files]]
+file = "config/flashback/flashback.json"
+hash = "fdccdfd207569e8c0fb5d9de74a6f7576017d4e685cacd12527c4c07efbbda4d"
+
+[[files]]
+file = "config/flashback/imgui.ini"
+hash = "3e96d5b7336942e4ec6bc570e2e260e17f13c4f3a8379600ae8d7de9ecb415b8"
+
+[[files]]
+file = "config/flowerpatch.toml"
+hash = "79104a0ba272484ff6e516b23ecd00e4ee0f1aaa6c9271f0e76855b46d22b838"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
@@ -325,11 +417,23 @@ file = "config/fpsreducer.json"
 hash = "b5ec902f480d0237607e75a469fa700594296045d89f9ddef790c54783b070e7"
 
 [[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
 file = "config/genshinstrument-client.toml"
 hash = "956adb0e71b15179c77a0df313b8995ae9505bb7859f9c143a7047a13a5de564"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
 file = "config/inventoryessentials-common.toml"
+hash = "6f00eda1d5e852de126b34d4a4c843457ebc4b1c868c54fd0b6153ce8dae4b39"
+
+[[files]]
+file = "config/inventoryessentials-common.toml.bak1"
 hash = "f32c3a85388aaf4214d01285a2167d8ecaf38f0288085ca66a038be15957f6e1"
 
 [[files]]
@@ -346,7 +450,55 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bdace072b752b243e83b25de1a08cb7aea862f29c48de9b656964069a856e51b"
+hash = "1dfe37252b5a263dc60a4047dd114c180582cba9e9dbf6ec66ada4042b7a46a8"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "f70bfe5665de7c58d1f55ff824d4ffdb429b33c32c345361e2c68ec2fff2211b"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "8e76b2407795ba25b3c9ec2cb57acb5b536c13ae842a8258d1a04e1361aacac8"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "d70f3da8220c5e930543b5cc1bda62fde21f786192abfeb7004971f821f9207e"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "974bfb3851e8ab9ba2e8414b3534a4d426a9109ff9def1f5ce9fe0a04cd14a21"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "9e445273b8868aae630a7ec5b20ce5212aa813d855be81bcc874bd4aa43e16a4"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "8cb52890a0f4d95a309da8e8e7275e5d6088b46a3ed58a6cb0f8ce911f42c075"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -477,8 +629,20 @@ file = "config/modmenu.json"
 hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
 
 [[files]]
+file = "config/moonlight-client.json"
+hash = "f86bc1b571e5e5983b77ec6d706bfd08a916dee7c11f7e639591bde491acd7b2"
+
+[[files]]
+file = "config/moonlight-common.json"
+hash = "633947e880d88f21b14c968a1b606fa03a31b077b3fdff9cd1ed3f7327a7b53a"
+
+[[files]]
 file = "config/moreculling.toml"
 hash = "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5"
+
+[[files]]
+file = "config/namer.json5"
+hash = "61e8bfc77952f6922179db000655a5e80162e2ba0c030ff3184e8ef324829a64"
 
 [[files]]
 file = "config/namerscoreboards.json"
@@ -501,16 +665,32 @@ file = "config/observable.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/packetfixer.properties"
+hash = "7b45fe0bde48fe12c55fa81464f7f9948bc04dc121cec32bf6dceccf3817d9ee"
+
+[[files]]
+file = "config/particle_core_config.toml"
+hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
+
+[[files]]
+file = "config/particle_core_disabled_optimizations.json"
+hash = "2bcb7aea228925ebab95b854ac359bc26993af0a6f4b49b33e6cb734d284c35b"
+
+[[files]]
+file = "config/restorechatlinks-client.toml"
+hash = "61cb0f81d277e8be37f0ec15faf5a5db9c0b6c8798325faf92506fe7718ed22e"
+
+[[files]]
 file = "config/scoreboard-helper.json"
 hash = "845c306dd6942376bb8d38479596c09933cb93cf931a3960135743143cc0bdf1"
 
 [[files]]
-file = "config/skinlayers.json"
-hash = "980b9889cf6a14d2df8cd14c269b307b48743afeadaa38d14395f1c8d9e874db"
+file = "config/sit.json5"
+hash = "ef4c671ac015b15d16f6f358ab854c7012e3b8ff47104599aa3e72244665d3cb"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
-hash = "3b2b74dfc7b5018fcbab63e4848645012c122a3bf032edc5aabbfb8c8068e527"
+hash = "8557f94982270d1d8c9bc56c2d03b0febd5cdb0e71cbd46db1a1dc3df0f8591b"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -518,7 +698,15 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73"
+hash = "add9c117a262f8702f084308a731ce1b1fb8db63c4ad1d031adb717db4bcb9fc"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "d8ebc5a26f6f4fc0d27c3746a3aa6ec8d2652873bd3cec6f254be1628f0472f7"
+
+[[files]]
+file = "config/sodiumextras-client.toml"
+hash = "a07b17759770e4e40ea1737160aa1fd169e91cb70bc7ffdc635bdde2881293ef"
 
 [[files]]
 file = "config/soundboard.json"
@@ -541,8 +729,32 @@ file = "config/spark/tmp/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
+file = "config/stoneworks-common.toml"
+hash = "82a5ceca05f3719f726c346c41ee6931df0be2f1cbc40b44e200b62e4832d3b4"
+
+[[files]]
+file = "config/stonezone-common.json"
+hash = "f10b79765ac5aef594ef26b20978ac70ab954f39c66f87431f51cc5b6d2c9d80"
+
+[[files]]
+file = "config/stonezone-hazardous.json"
+hash = "63fb3c76abce55ea38d77753f9a5f68a9842bdb39d8d22da69565149092d6ed9"
+
+[[files]]
 file = "config/styled-nicknames.json"
 hash = "1320c44dc9f31f073838813f80332a05ce379ea8fe0c4e9291b89837659931ad"
+
+[[files]]
+file = "config/supplementaries-client.json"
+hash = "4341e022bca78432e92dc8f72c091767501828487cbcbbc31452079d8f1082c1"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "0550e81a7ed01f83691afedc78d4c674cf030a8bce334990961a4f2eed14a293"
+
+[[files]]
+file = "config/suppsquared-common.json"
+hash = "a2501583b9581acb039b411d08fe85698609398684e3b18c590731acc34b9c7d"
 
 [[files]]
 file = "config/talkingheads.json"
@@ -557,20 +769,16 @@ file = "config/visible-ghosts.json"
 hash = "a303db0851e2ee04958535bdeb9423d81d3f307b3179c5d7eb2689a456cb636b"
 
 [[files]]
-file = "config/visiblebarriers.json"
-hash = "6ff0ecea2b03f0bbb503cbadf7a2f94b8ae70b8b72a70900fc5336457b92db07"
-
-[[files]]
 file = "config/voicechat/category-volumes.properties"
-hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
 
 [[files]]
 file = "config/voicechat/player-volumes.properties"
-hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
 
 [[files]]
 file = "config/voicechat/translations.properties"
-hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
@@ -578,11 +786,11 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "ab6c60632c39f708ccecd67c73e18a73f3aa05c513d0c966f416026adf884513"
+hash = "152fa921764070a001fa4dd009ddcfd7fbb094e7bc69726e6dbfc3cd666adaf0"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "c40af4fce7e6317fab8297ce3f60e18ffadd59b88726d57ab46f6e8aed0efd63"
+hash = "038edf04a514494d00665e01e9affd179a80b505b16cfeef96c988df3a822d5c"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -595,6 +803,14 @@ hash = "2fc4366cd8c3e5e2b27b306c44da0d641033ade709ab8589029d82fc8ed3566f"
 [[files]]
 file = "config/wands.json"
 hash = "73b3a4d3f8c0fb2d1dfaf361bc184c68ca78e6943d54f334d71527cbaf881255"
+
+[[files]]
+file = "config/worldedit/schematics/clockface.schem"
+hash = "ed39905e5f001a4f9064ec2ae0033c3b81512f974a245026b57bbb07cb5e58e5"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "62249fbdb2e59e827975baac4c62013bd675a99cc40f6a595ef19a1fc2e1c669"
 
 [[files]]
 file = "config/yacl.json5"
@@ -1496,4 +1712,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "aed8da05c8e4d9c7b68e82e8d9432b88769f7c4eeb8bd735845a189ef0e2bbf9"
 metafile = true

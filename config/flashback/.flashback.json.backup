@@ -1,0 +1,113 @@
+{
+  "configVersion": 2,
+  "recordingControls": {
+    "controlsLocation": "RIGHT",
+    "automaticallyStart": false,
+    "automaticallyFinish": true,
+    "showRecordingToasts": true,
+    "quicksave": false
+  },
+  "recording": {
+    "markDimensionChanges": true,
+    "recordHotbar": false,
+    "localPlayerUpdatesPerSecond": 20,
+    "recordVoiceChat": false
+  },
+  "exporting": {
+    "defaultExportFilename": "%date%T%time%",
+    "exportRenderDummyFrames": 0
+  },
+  "keyframes": {
+    "defaultInterpolationType": "SMOOTH",
+    "useRealtimeInterpolation": true
+  },
+  "editorMovement": {
+    "flightDirection": "HORIZONTAL",
+    "flightMomentum": 1.0,
+    "flightLockX": true,
+    "flightLockY": true,
+    "flightLockZ": false,
+    "flightLockYaw": true,
+    "flightLockPitch": false
+  },
+  "marker": {
+    "markerOptions1": {
+      "color": "RED",
+      "customRGB": "#FF0000",
+      "savePosition": true,
+      "description": ""
+    },
+    "markerOptions2": {
+      "color": "RED",
+      "customRGB": "#FF0000",
+      "savePosition": true,
+      "description": ""
+    },
+    "markerOptions3": {
+      "color": "RED",
+      "customRGB": "#FF0000",
+      "savePosition": true,
+      "description": ""
+    },
+    "markerOptions4": {
+      "color": "RED",
+      "customRGB": "#FF0000",
+      "savePosition": true,
+      "description": ""
+    }
+  },
+  "advanced": {
+    "disableIncreasedFirstPersonUpdates": false,
+    "disableThirdPersonCancel": false,
+    "synchronizeTicking": false
+  },
+  "internal": {
+    "recentReplays": [
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T18_46_27.zip",
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T17_54_10.zip",
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T15_11_16.zip",
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T15_26_53.zip",
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T15_03_18.zip",
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T13_34_05.zip",
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T01_59_25.zip",
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T01_51_46.zip",
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T01_18_05.zip",
+      "C:\\Users\\Home\\AppData\\Roaming\\PrismLauncher\\instances\\Joel\u0027s BotC v2-v2.1.0 - to share\\minecraft\\flashback\\replays\\2025-11-29T01_09_33.zip"
+    ],
+    "openedWindows": [],
+    "nextUnsupportedModLoaderWarning": 0,
+    "filterUnnecessaryPackets": true,
+    "signedRenderFilter": true,
+    "viewedTipsOfTheDay": 1,
+    "showTipOfTheDay": true,
+    "nextTipOfTheDay": 1764464999219,
+    "replaySorting": "CREATED_DATE",
+    "sortDescending": true,
+    "defaultOverrideFov": 70.0,
+    "enableOverrideFovByDefault": false
+  },
+  "internalExport": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "framerate": [
+      60.0
+    ],
+    "resetRng": false,
+    "ssaa": true,
+    "noGui": true,
+    "container": "MP4",
+    "videoCodec": "H264",
+    "selectedVideoEncoder": [
+      0
+    ],
+    "useMaximumBitrate": false,
+    "recordAudio": false,
+    "transparentBackground": false,
+    "audioCodec": "AAC",
+    "stereoAudio": false,
+    "defaultExportPath": "C:\\Users\\Home\\Downloads"
+  },
+  "forceDefaultExportSettings": {}
+}

@@ -38,13 +38,13 @@ variable {
 
 variable {
   name = player_2_username
-  value = p2
+  value = ForgottenChav
   reset_on_launch = false
 }
 
 variable {
   name = player_8_username
-  value =  ‌
+  value = fairy_sneezes
   reset_on_launch = false
 }
 
@@ -86,7 +86,7 @@ variable {
 
 variable {
   name = timer_seconds_custom
-  value = 39
+  value = 1
   reset_on_launch = false
 }
 
@@ -164,7 +164,7 @@ variable {
 
 variable {
   name = player_8_colour
-  value = &f
+  value = &a
   reset_on_launch = false
 }
 
@@ -182,7 +182,7 @@ variable {
 
 variable {
   name = og_enabled
-  value = false
+  value = true
   reset_on_launch = false
 }
 
@@ -212,13 +212,13 @@ variable {
 
 variable {
   name = player_3_username
-  value = p3
+  value = SillyIsLily
   reset_on_launch = false
 }
 
 variable {
   name = player_7_username
-  value =  ‌
+  value = stretch22
   reset_on_launch = false
 }
 
@@ -230,7 +230,7 @@ variable {
 
 variable {
   name = player_count
-  value = 8
+  value = 7
   reset_on_launch = false
 }
 
@@ -248,13 +248,13 @@ variable {
 
 variable {
   name = reassign_seat
-  value = 
+  value = 1
   reset_on_launch = false
 }
 
 variable {
   name = player_4_colour
-  value = &2
+  value = &a
   reset_on_launch = false
 }
 
@@ -272,19 +272,19 @@ variable {
 
 variable {
   name = player_6_colour
-  value = &2
+  value = &a
   reset_on_launch = false
 }
 
 variable {
   name = timer_minutes_custom
-  value = 8
+  value = 
   reset_on_launch = false
 }
 
 variable {
   name = player_2_colour
-  value = &2
+  value = &a
   reset_on_launch = false
 }
 
@@ -296,7 +296,7 @@ variable {
 
 variable {
   name = reassign_username
-  value = 
+  value = kk5288
   reset_on_launch = false
 }
 
@@ -320,7 +320,7 @@ variable {
 
 variable {
   name = kill_revive_multiple
-  value = Disabled
+  value = Enabled
   reset_on_launch = false
 }
 
@@ -350,13 +350,13 @@ variable {
 
 variable {
   name = town_name
-  value = the Gurtwood
+  value = San Joelsé
   reset_on_launch = false
 }
 
 variable {
   name = player_6_username
-  value = p6
+  value = LordSedgley
   reset_on_launch = false
 }
 
@@ -368,7 +368,7 @@ variable {
 
 variable {
   name = player_1_username
-  value = p1
+  value = Kk5288
   reset_on_launch = false
 }
 
@@ -422,7 +422,7 @@ variable {
 
 variable {
   name = player_4_username
-  value = p4
+  value = alexasterisk
   reset_on_launch = false
 }
 
@@ -500,7 +500,7 @@ variable {
 
 variable {
   name = player_5_colour
-  value = &2
+  value = &a
   reset_on_launch = false
 }
 
@@ -518,7 +518,7 @@ variable {
 
 variable {
   name = player_3_colour
-  value = &c
+  value = &a
   reset_on_launch = false
 }
 
@@ -530,13 +530,13 @@ variable {
 
 variable {
   name = player_7_colour
-  value = &f
+  value = &a
   reset_on_launch = false
 }
 
 variable {
   name = player_5_username
-  value = p5
+  value = RandomEthan
   reset_on_launch = false
 }
 

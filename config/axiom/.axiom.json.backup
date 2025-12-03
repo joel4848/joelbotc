@@ -117,12 +117,12 @@
     "typeReplace": false,
     "forcePlace": false,
     "noUpdates": false,
-    "tinker": true,
+    "tinker": false,
     "infiniteReach": false,
     "infiniteReachLimit": -1,
     "fastPlace": false,
     "angelPlacement": false,
-    "noClip": false,
+    "noClip": true,
     "phantom": false
   },
   "blockAttributes": {
@@ -150,9 +150,9 @@
     "searchQuickAdd": true
   },
   "entityManipulation": {
-    "showDisplayEntities": true,
+    "showDisplayEntities": false,
     "displayEntityRange": 8,
-    "showMarkerEntities": true,
+    "showMarkerEntities": false,
     "markerEntityRange": 24,
     "swapLeftRightClick": false
   },
@@ -168,11 +168,16 @@
   },
   "internal": {
     "nextUpdateNag": 0,
-    "shownIntroduction": false,
+    "shownIntroduction": true,
     "showOpenConfigTip": true,
-    "showOpenContextMenuTip": true,
-    "showOpenEditorTip": true,
-    "completedTutorials": [],
+    "showOpenContextMenuTip": false,
+    "showOpenEditorTip": false,
+    "completedTutorials": [
+      "introduction",
+      "magic_select_tool",
+      "selection",
+      "box_select_tool"
+    ],
     "openEditorWindowTypes": [
       "tools",
       "tool_options",
@@ -192,7 +197,7 @@
     "showToolMaskOpenWarning": true,
     "showNon90DegreeRotationWarning": true,
     "showQuickReplaceCtrlClickTip": true,
-    "dockedInventoryWithPalette": false,
+    "dockedInventoryWithPalette": true,
     "rootEditorPalette": {
       "blocks": [],
       "subcategories": {}
@@ -205,7 +210,7 @@
     "useVanillaMovementForEditor": true,
     "tallGrassIsActuallyNotTall": false,
     "disableChunkRenderOverrider": false,
-    "hadEditorUIOpen": false,
+    "hadEditorUIOpen": true,
     "blueprintBrowserDirSize": 175
   }
 }
