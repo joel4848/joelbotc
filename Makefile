@@ -23,12 +23,12 @@ build: refresh
 
 curseforge: build
 	@echo "Making Curseforge pack"
-	packwiz curseforge export --pack-file pack.toml
+	packwiz curseforge export --pack-file ./pack.toml
 	mv ./*.zip ./.build/${PACKNAME}-curseforge.zip
 
 modrinth: build
 	@echo "Making Modrinth pack"
-	packwiz modrinth export --pack-file pack.toml
+	packwiz modrinth export --pack-file ./pack.toml
 	mv ./*.mrpack ./.build/${PACKNAME}-modrinth.mrpack
 
 multimc: build
