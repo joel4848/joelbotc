@@ -35,7 +35,7 @@ jobs:
         run: make update-packwiz
 
       - name: Make Modpack
-        run: make preClean packwiz multimc curseforge modrinth postClean
+        run: make preClean prism multimc curseforge modrinth postClean
 
       - name: Make Modlist
         run: make release-file
