@@ -5,6 +5,14 @@ file = ".envrc"
 hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "71829ccfa20aeb77be02dbf6f446105907661d8ea129a47986523483a9e9b9e5"
+
+[[files]]
+file = "Makefile"
+hash = "c1647b0ca818330403c9603c0cf24f21e7ee6a3ec5c76feb1eff549e5658da5d"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -346,7 +354,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "364f75bafd1bd283f7a6e5e01149bdf2bcef64e1ed7b6c7bf92e7aec23fe48e1"
+hash = "41330d4bd7903c05fa3cebcb928633b54666a7563a221fa1f469afc5b050ea0c"
 
 [[files]]
 file = "config/fancymenu/panoramas/joelbotctitle/panorama/panorama_0.png"
@@ -1067,6 +1075,14 @@ hash = "c45a86fb427e6174d8223849009d9b584ba460804f43c0b5d17db2aac0b85369"
 [[files]]
 file = "flake.nix"
 hash = "dde7a6053d301323754c71b8948e95e6c8bfe1a31f70c4140021452175ab4aff"
+
+[[files]]
+file = "icon.png"
+hash = "af03986f34de38aed5cb26e66c320564e315c34be2c22131c06166316a0db493"
+
+[[files]]
+file = "instance.cfg"
+hash = "18ec7562a5fa85efc43fc1126702a42bf50517a5683fc388c6ac548b0a8b4a36"
 
 [[files]]
 file = "mods/accessible-step.pw.toml"
