@@ -1709,6 +1709,10 @@ hash = "8ffa4ba1466882a5abef6c6d220824f1ce4e228771f854f19e4fceb80598723c"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "f45f99e87a6b2f5f0e428648d28c009b0586573fd8293b9a07e4dfc75c177748"
+
+[[files]]
 file = "resourcepacks/FreshAnimations_v1.10.1.zip"
 hash = "2e2f0152469fcaac19c46f2959e0232f9b2c12a255e0481d85f845ecba003692"
 
@@ -1729,6 +1733,10 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "fd2e4eae1d52581c47cc06cb7d2716c97bfea198206cbfa94c9c6328d2a7b96e"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
