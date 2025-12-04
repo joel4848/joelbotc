@@ -1130,6 +1130,11 @@ hash = "830f9c2e949dec3a15b3d2b3e44dbdea5dc29260f385996a23968cc25daf2e88"
 metafile = true
 
 [[files]]
+file = "mods/async.pw.toml"
+hash = "315afb8108f8b9f5c8ebf73c12b9aaee5b308cb445928f1c3421c9f840de9bce"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
 metafile = true
@@ -1291,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "4da786c86d4693d9693b3f700823159dcf6d9e6f34e9f4365282b513ab460099"
+hash = "ad64d8d7c48ce7175d6e0aa37c30b91429d2be47cfa025dd50744af06934d9af"
 metafile = true
 
 [[files]]
@@ -1346,6 +1351,11 @@ hash = "3c5963545cf51f646b4ce29c575dcb08dc23c1bcb964b5171817f6e6fe1cc074"
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
+file = "mods/feytweaks.pw.toml"
+hash = "c000a1bb7a7a3381cadc48a5241fe57a397496aad5730f8168b1c4263bb5d1c9"
 metafile = true
 
 [[files]]
@@ -1410,12 +1420,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4e21f423444b6621411bedd11208233c33bae0fedb7bd9fbb88ce2e380e91387"
+hash = "fc1d895c1559e990f425a15951dcb4c0c38bee3b25468d5d07f5605e51449cea"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "7f03a1a173a2c50a7e84ebce16f1ad04a38d28680874f7c0963dc5ed9b086261"
+hash = "d4347e8663689316f97ab9c2402fca213933445bd15a38942405c72bcbcab0ed"
 metafile = true
 
 [[files]]
@@ -1604,6 +1614,11 @@ hash = "a717ad1dd50748d87bb8a1126054933bf59617238f968acaa1844e71aed29585"
 metafile = true
 
 [[files]]
+file = "mods/redirected.pw.toml"
+hash = "11cbbaf278ce1068acd4c48465a4eddc021493898cd1af4cf3df453d9371fb60"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
@@ -1686,6 +1701,11 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "55de3aa867841af02dc02b83983de55917f99237a6def88736bb556903aad5ad"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
 metafile = true
 
 [[files]]

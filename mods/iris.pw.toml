@@ -14,5 +14,5 @@ version = "zsoi0dso"
 
 [option]
 optional = true
-default = true 
+default = true
 description = "Shaders mod - disable if having performance issues"

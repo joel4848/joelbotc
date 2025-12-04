@@ -14,5 +14,5 @@ version = "mYQ3bJs5"
 
 [option]
 optional = true
-default = true 
+default = true
 description = "Disable if having performance issues"

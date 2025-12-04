@@ -14,5 +14,5 @@ version = "PtcHhnOY"
 
 [option]
 optional = true
-default = true 
+default = true
 description = "Disable if having performance issues"
